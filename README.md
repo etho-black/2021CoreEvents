@@ -2,9 +2,11 @@
 Event timeline of necessary responsibilities and updates being managed by the etho.black team.
 
 ## January – February 2021
+
 Reorganization and Expansion of etho.black Core Team (etho.black 2.0)
-Plans to expand in near term from 5 developers to a multidirectional team with 10-12 members
-Etho.black will now take ETHO marketing, partnership development, and outside application on-boarding as a top tiered priority for the expanded team
+  - Plans to expand in near term from 5 developers to a multidirectional team with 10-12 members
+  - Etho.black will now take ETHO marketing, partnership development, and outside application on-boarding as a top tiered priority for the expanded team
+
 Continue On-Going R&D/Testing for ETHO 2.0
 
 ## February - March 2021

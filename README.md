@@ -21,7 +21,7 @@ ethoFS 2.0 & Front-End Rewrite Early Testing Begins
 
 ETHO 1.5 – Atlas Release Early Testing 
   - The newest release (codenamed Atlas) will allow for wider IPFS network integration and allow additional partnership fostering as ethoFS will now be capable of decentralized data pinning for any public IPFS data
-  - 
+
 Continue On-Going R&D/Testing for ETHO 2.0
 
 Listing Goal: Continue negotiations will all top 50 exchanges

@@ -66,6 +66,8 @@ Continue Expansion of etho.black Core Team to 20+ team members
   - This will complete the etho.black teams maturity into a premier blockchain development and marketing group
   - This expansion will include major marketing players as well as a headcount increase to the core dev team to finish work on ETHO 2.0
 
+Continue Pursuing & Onboarding NFT & DEFI Partnerships
+
 Continue On-Going R&D/Testing for ETHO 2.0 and Begin Final Stages of Development Planning
 
 ## September - October 2021
@@ -79,6 +81,8 @@ Listing Goal: Second Top 10 Exchange Listing
 ## November - December 2021
 
 ETHO 2.0 Early Testing Begins
+
+Continue Pursuing & Onboarding NFT & DEFI Partnerships
 
 Permanent Governance System Testing Begins
 
